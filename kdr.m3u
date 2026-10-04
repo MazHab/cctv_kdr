@@ -1,0 +1,33 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="Kediri", [KDR] CCTV Simpang Jetis
+https://pplterpadu.kedirikota.go.id:8888/jetis/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kediri", [KDR] CCTV Simpang Baruna
+https://pplterpadu.kedirikota.go.id:8888/baruna/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kediri", [KDR] CCTV Simpang Tosaren
+https://pplterpadu.kedirikota.go.id:8888/tosaren/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kediri", [KDR] CCTV Alun-Alun
+https://pplterpadu.kedirikota.go.id:8888/alun_alun/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kediri", [KDR] CCTV Simpang Bandar Nglimut
+https://pplterpadu.kedirikota.go.id:8888/bandar_nglimut/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kediri", [KDR] CCTV Simpang Mrican
+https://pplterpadu.kedirikota.go.id:8888/mrican/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kediri", [KDR] CCTV Simpang Iskandar Muda
+https://pplterpadu.kedirikota.go.id:8888/iskandar_muda/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kediri", [KDR] CCTV Simpang A. Yani Utara
+https://pplterpadu.kedirikota.go.id:8888/a_yani_utara/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kediri", [KDR] CCTV Simpang Tamanan
+https://pplterpadu.kedirikota.go.id:8888/tamanan/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kediri", [KDR] CCTV Simpang Dandangan
+https://pplterpadu.kedirikota.go.id:8888/dandangan/stream.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kediri", [KDR] CCTV Simpang Sukorame
+https://pplterpadu.kedirikota.go.id:8888/sukorame/stream.m3u8
